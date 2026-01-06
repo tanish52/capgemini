@@ -1,7 +1,7 @@
 package level2;
 import java.util.Scanner;
 
-class q8 {
+class Q8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
