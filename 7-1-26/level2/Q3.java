@@ -1,0 +1,18 @@
+package level2;
+
+import java.util.Scanner;
+
+public class Q3 {
+  public static boolean leapyear(int y){
+    if(y<1582)return false;
+    if(y%400==0 || (y%4==0 && y%100!=0)){
+      return true;
+    }
+    return false;
+  }
+ public static void main(String[] args) {
+   Scanner sc = new Scanner(System.in);
+  int year=sc.nextInt();
+  System.out.println(leapyear(year));
+ }
+}
