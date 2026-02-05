@@ -30,7 +30,7 @@ class Resumescreening{
     r.display();
   } 
 
-  static <T extends JobRole> void result(List<? extends JobRole> li){
+  static <T extends JobRole> void result(List<T> li){
     for(JobRole jr:li){
       jr.showrole();
     }
