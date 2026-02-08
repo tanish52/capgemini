@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\DELL\\Downloads\\junit-platform-console-standalone-6.1.0-M1.jar"
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
+}

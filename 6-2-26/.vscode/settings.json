@@ -1,0 +1,9 @@
+{
+  "java.project.sourcePaths": [
+    "junit",
+    "Regex"
+  ],
+  "java.project.referencedLibraries": [
+    "c:\\Users\\DELL\\Downloads\\junit-jupiter-api-5.10.0.jar"
+  ]
+}
